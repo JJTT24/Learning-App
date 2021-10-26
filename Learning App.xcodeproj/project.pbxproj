@@ -15,6 +15,7 @@
 		F6A53F762725BA8D006123EE /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = F6A53F742725BA8D006123EE /* data.json */; };
 		F6A53F772725BA8D006123EE /* style.html in Resources */ = {isa = PBXBuildFile; fileRef = F6A53F752725BA8D006123EE /* style.html */; };
 		F6A53F792725BE26006123EE /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6A53F782725BE26006123EE /* Models.swift */; };
+		F6A53F7B272790C8006123EE /* HomeViewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6A53F7A272790C8006123EE /* HomeViewRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		F6A53F742725BA8D006123EE /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = data.json; path = "Assets/M5L3 Resources/data/data.json"; sourceTree = SOURCE_ROOT; };
 		F6A53F752725BA8D006123EE /* style.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = style.html; path = "Assets/M5L3 Resources/data/style.html"; sourceTree = SOURCE_ROOT; };
 		F6A53F782725BE26006123EE /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		F6A53F7A272790C8006123EE /* HomeViewRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				F6A53F602720A752006123EE /* HomeView.swift */,
+				F6A53F7A272790C8006123EE /* HomeViewRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F6A53F612720A752006123EE /* HomeView.swift in Sources */,
+				F6A53F7B272790C8006123EE /* HomeViewRow.swift in Sources */,
 				F6A53F5F2720A752006123EE /* Learning_App.swift in Sources */,
 				F6A53F732720A878006123EE /* ContentModel.swift in Sources */,
 				F6A53F792725BE26006123EE /* Models.swift in Sources */,
